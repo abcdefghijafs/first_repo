@@ -1,1 +1,6 @@
-git init-is used to init an empty git repositoy
+git init-is used to create an empty git repositoy
+git add <filename>- used to stage the untracked files
+git commit -used to commit the file changes
+git commit -m <message>-used to add a message for git commit
+
+
